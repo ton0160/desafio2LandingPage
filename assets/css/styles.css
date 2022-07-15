@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-image: url("../img/fondo3.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 80%;
+    margin: 25px auto;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    color: rgb(51, 48, 48);
+}
+
+.header h1, h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.3rem;
+    margin-bottom: 5px;
+}
+
+
+.header h2, .header .subtitle {
+    text-align: right;
+}
+
+.header h2 {
+    font-size: 1.8rem;
+}
+
+.header p {
+    font-family: 'Charis SIL', serif;
+    font-size: 1.2rem;
+}
+
+.header .subtitle {
+    font-size: 1.1rem;   
+}
+
+span {
+    color: mediumvioletred;
+}
+
+table .service-caption {
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+table .price {
+    font-style: italic;
+}
+
+table p {
+    margin: 8px;
+}
+
+.services {
+    width: 80%;
+    margin: auto;
+}
+
+.services td {
+    width: 50%;
+    padding: 35px;
+}
+
+.services img {
+    width: 100%;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(209, 167, 125);
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
