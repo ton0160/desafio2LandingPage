@@ -17,6 +17,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: antiquewhite;
 }
 
 .header {
@@ -53,7 +54,7 @@ span {
 
 table .service-caption {
     font-weight: 700;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 }
 
 table .price {
